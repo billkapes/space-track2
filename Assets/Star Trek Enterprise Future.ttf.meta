@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8a3c8863a7cde17459844c6f5d06599a
+timeCreated: 1518434219
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Star Trek Enterprise Future
+  fontNames:
+  - Star Trek Enterprise Future
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
